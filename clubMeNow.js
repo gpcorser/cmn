@@ -1,4 +1,7 @@
 /* -------------------------------
+author: george corser (george@corser.com)
+description: 
+
 Functions in this app:
 
 clubDistanceList.html
